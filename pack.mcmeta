@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "description":{
+            "translate":"A %s Pack.\n%s %s",
+            "with": [
+                {
+                    "text":"Custom Emoticon",
+                    "color":"yellow"
+                },
+                {
+                    "text":"Alpha 1.0",
+                    "color":"aqua"
+                },
+                {
+                    "text":"©2023 qiu_yu"
+                }
+            ]
+        },
+        "pack_format":6
+    }
+}
