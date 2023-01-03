@@ -15,3 +15,5 @@
 
 >使用示例 <br>
 /tellraw @a {"text":"\<user> \ue000"}
+
+`©2023 qiu_yu`
